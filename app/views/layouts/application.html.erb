@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<head>
+    <title><%= @title %></title>
+    <%= javascript_include_tag 'jquery' %>
+    <%= stylesheet_link_tag 'style' %>
+	<%= stylesheet_link_tag 'sof2colors' %>
+</head>
+<body>
+	<span id = "outside_box">
+	
+		<% if flash[:notice] %>
+			<span id = "flash_notice"> <%= flash[:notice] %> </span>
+		<% elsif flash[:error] %>
+			<span id = "flash_error">Error: <%= flash[:error] %> </span>
+		<% end %>
+		
+		<span id = "main_content">
+			<%= yield %>
+		</span>
+		
+	</span>	
+</body>
+</html>

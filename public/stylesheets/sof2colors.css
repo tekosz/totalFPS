@@ -1,0 +1,272 @@
+/* NICKNAMES COLORS - PARSE SOF2 COLORS TO HTML */
+span.color_1{
+	color: #ff1919;
+}
+span.color_2{
+	color: #a9c274;
+}
+span.color_3{
+	color: #ffff00;
+}
+span.color_4{
+	color: #4c4cff;
+}
+span.color_5{
+	color: #54ffff;
+}
+span.color_6{
+	color: #ff00ff;
+}
+span.color_7{
+	color: #ffffff;
+}
+span.color_8{
+	color: #7a00d8;
+}
+span.color_9{
+	color: #3cdcb5;
+}
+span.color_0{
+	color: #000001;
+}
+span.color_a{
+	color: #00f3b5;
+}
+span.color_b{
+	color: #dc903c;
+}
+span.color_c{
+	color: #d743ce;
+}
+span.color_d{
+	color: #7faddb;
+}
+span.color_e{
+	color: #d80086;
+}
+span.color_f{
+	color: #70c4ce;
+}
+span.color_g{
+	color: #81f229;
+}
+span.color_h{
+	color: #860028;
+}
+span.color_i{
+	color: #254aad;
+}
+span.color_j{
+	color: #4ad800;
+}
+span.color_k{
+	color: #ceb281;
+}
+span.color_l{
+	color: #90c4f2;
+}
+span.color_m{
+	color: #bd25b6;
+}
+span.color_n{
+	color: #4e7f32;
+}
+span.color_o{
+	color: #af6b70;
+}
+span.color_p{
+	color: #24956c;
+}
+span.color_r{
+	color: #b653b2;
+}
+span.color_s{
+	color: #320086;
+}
+span.color_t{
+	color: #7a0028;
+}
+span.color_u{
+	color: #3c24b5;
+}
+span.color_v{
+	color: #0dd743;
+}
+span.color_q{
+	color: #af9594;
+}
+span.color_w{
+	color: #000001;
+}
+span.color_x{
+	color: #000c28;
+}
+span.color_y{
+	color: #0e90c4;
+}
+span.color_z{
+	color: #b28132;
+}
+span.color_A{
+	color: #4b00f3;
+}
+span.color_B{
+	color: #3cdc29;
+}
+span.color_C{
+	color: #f25325;
+}
+span.color_D{
+	color: #324e7f;
+}
+span.color_E{
+	color: #6caf28;
+}
+span.color_F{
+	color: #002470;
+}
+span.color_G{
+	color: #4aad25;
+}
+span.color_H{
+	color: #956c81;
+}
+span.color_I{
+	color: #4ec4dc;
+}
+span.color_J{
+	color: #94af95;
+}
+span.color_K{
+	color: #addb81;
+}
+span.color_L{
+	color: #b27ad8;
+}
+span.color_M{
+	color: #00d87a;
+}
+span.color_N{
+	color: #dc9000;
+}
+span.color_O{
+	color: #b5bdf2;
+}
+span.color_P{
+	color: #00ff00;
+}
+span.color_R{
+	color: #293cdc;
+}
+span.color_S{
+	color: #43f229;
+}
+span.color_T{
+	color: #ce4e3c;
+}
+span.color_U{
+	color: #9043f2;
+}
+span.color_V{
+	color: #7fceb2;
+}
+span.color_Q{
+	color: #f34bbd;
+}
+span.color_W{
+	color: #8600b6;
+}
+span.color_X{
+	color: #25b6ad;
+}
+span.color_Y{
+	color: #86d800;
+}
+span.color_Z{
+	color: #af95dc;
+}
+span.color_-_{
+	color: #3f3f3f;
+}
+span.color_equal{
+	color: #86dbb6;
+}
+span.color_bracket1{
+	color: #3caf95;
+}
+span.color_bracket2{
+	color: #25b695;
+}
+span.color_backslash{
+	color: #cd4d7e;
+}
+span.color_srednik{
+	color: #d743f2;
+}
+span.color_quote{
+	color: #ffff58;
+}
+span.color_comma{
+	color: #7f7f7f;
+}
+span.color_dot{
+	color: #5d42b8;
+}
+span.color_slash{
+	color: #310063;
+}
+span.color_exclamation{
+	color: #000000;
+}
+span.color_at{
+	color: #c68100;
+}
+span.color_hash{
+	color: #000001;
+}
+span.color_dolar{
+	color: #ff0000;
+}
+span.color_percent{
+	color: #5d42b8;
+}
+span.color_and{
+	color: #0000ff;
+}
+span.color_star{
+	color: #ffffff;
+}
+span.color_plus{
+	color: #bfbfbf;
+}
+span.color_bracket3{
+	color: #ff00ff;
+}
+span.color_bracket4{
+	color: #00ffff;
+}
+span.color_bracket5{
+	color: #ba0d00;
+}
+span.color_bracket6{
+	color: #254a53;
+}
+span.color_line{
+	color: #7adb4a;
+}
+span.color_colon{
+	color: #f3b27f;
+}
+span.color_bracket7{
+	color: #00ff00;
+}
+span.color_bracket8{
+	color: #25b6ad;
+}
+span.color_questionmark{
+	color: #9ade6b;
+}
+span.color_underline{
+	color: #ff0000;
+}
+/*  END PARSING */

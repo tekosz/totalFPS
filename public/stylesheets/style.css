@@ -1,0 +1,50 @@
+/* totalFPS style sheet */
+
+body{
+	background-color: #182602;
+}
+#outside_box{
+	display: block;
+	width: 1024px;
+	border: solid #4A8506 1px;
+	background-color: #2F5503;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	padding: 10px;
+	color: white;
+}
+/* Error and notice box style */
+#flash_error{
+	display: block;
+	width: 700px;
+	height: 40px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	padding-top: 10px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	background-color: #AD0000;
+	border: solid #FF0D0D 2px;
+}
+#flash_notice{
+	display: block;
+	width: 700px;
+	height: 40px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	padding-top: 10px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	background-color: #066311;
+	border: solid #07D01F 2px;
+}
+/* END OF FILE */
